@@ -1,2 +1,2 @@
 # lonmakson.github.io
-сайт-визитка| html/css/js
+сайт-визитка | html/css/js
